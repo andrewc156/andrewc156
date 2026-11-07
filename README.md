@@ -1,25 +1,28 @@
 # Hi there, I'm Andrew 👋
 
-Welcome to my GitHub profile! I'm passionate about math and software development and love working with new technologies. Here's a bit about me:
+I'm a **Mathematics** and **Data Science & Analytics** double major at **Kennesaw State University** (graduating May 2028). I'm interested in data science and topology, especially where they meet in topological data analysis.
 
 ## 🚀 About Me
-- 🌱 I’m currently learning more about quantum computing and machine learning.
-- 👯 I’m looking to collaborate on open-source projects and innovative tech solutions.
-- 🎯 My goal is to contribute to projects that have a positive impact on the world.
+- 🔬 I'm an undergraduate researcher in the **TDA Lab** at Kennesaw State University.
+- 📈 I'm interested in data science, statistical modeling, and topology.
+- 🎓 I'm open to **internships** and I'm looking at **Master's and PhD programs**.
 - ⚡ Fun fact: I love soccer and Valorant!
 
+## 🧪 Featured Work
+- **[rivernets](https://github.com/andrewc156/rivernets):** my official research work for the TDA Lab at KSU.
+- **[TDA_Lab](https://github.com/andrewc156/TDA_Lab):** topological data analysis work from the lab.
+- **[MTA Major Incidents vs Weather & Ridership](https://github.com/andrewc156/MTA-Major-Incidents-vs-Weather-and-Ridership):** models NYC subway major incidents (2015–2024) using weather and ridership data. A log-log fit captures the relationship best.
+
 ## 💼 Skills
-- **Languages:** Python, Java, C++
-- **Learning:** C#, game development, Rust
+- **Languages:** Python, R, Java, C++, LaTeX
+- **Areas:** Data analysis, statistical modeling, machine learning, topological data analysis
 
 ## 📫 How to reach me
-- **Email:** chinceaandrew509@gmail.com.com
+- **Email:** chinceaandrew509@gmail.com
 - **LinkedIn:** [Andrew's LinkedIn](https://www.linkedin.com/in/andrewchincea/)
-
 
 ## 📊 GitHub Stats
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewc156&show_icons=true&theme=radical)
-
 
 Thank you for visiting my profile!
 
