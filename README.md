@@ -14,11 +14,11 @@ I'm a **Mathematics** and **Data Science & Analytics** double major at **Kennesa
 - **[MTA Major Incidents vs Weather & Ridership](https://github.com/andrewc156/MTA-Major-Incidents-vs-Weather-and-Ridership):** models NYC subway major incidents (2015–2024) using weather and ridership data. A log-log fit captures the relationship best.
 
 ## 💼 Skills
-- **Languages:** Python, R, Java, C++, LaTeX
+- **Languages:** Python, R, SAS, Java, C++, LaTeX
 - **Areas:** Data analysis, statistical modeling, machine learning, topological data analysis
 
 ## 📫 How to reach me
-- **Email:** chinceaandrew509@gmail.com
+- **Email:** achincea@students.kennesaw.edu or chinceaandrew509@gmail.com
 - **LinkedIn:** [Andrew's LinkedIn](https://www.linkedin.com/in/andrewchincea/)
 
 ## 📊 GitHub Stats
